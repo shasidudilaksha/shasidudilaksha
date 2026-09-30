@@ -2,13 +2,13 @@
 
 ### Software Engineer · Full Stack Developer · Cloud Enthusiast
 
-I build thoughtful digital products from the first interface to the last deployed service. My sweet spot is where **clean engineering**, **useful design**, and **cloud-powered scale** meet.
+I turn complex ideas into **simple, intelligent products**. From the first pixel to the final deployment, I connect full-stack engineering, cloud architecture, and applied AI to create software that feels effortless to use and ready for what is next.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  turning ideas into reliable software, one shipped feature  │
-│  at a time                                                   │
-└──────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│  IDEA  →  INTERFACE  →  INTELLIGENCE  →  IMPACT              │
+│  human-first  ·  cloud-native  ·  AI-ready  ·  built to grow │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ## What I Build
@@ -21,6 +21,24 @@ I build thoughtful digital products from the first interface to the last deploye
 | ☁️ Cloud architecture | Deployments and services that are observable, resilient, and ready to grow |
 | 🤖 Applied AI | AI-powered features that solve a real problem inside a useful product |
 | 🔐 Secure systems | Thoughtful application security from the foundation up |
+
+## About Me
+
+<p align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=3178C6&center=true&vCenter=true&width=720&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI-Powered+Product+Builder" alt="Animated introduction" />
+	</a>
+</p>
+
+I am a curious builder who enjoys moving between **people, products, and platforms**. I like taking an unclear idea, finding the useful signal inside it, and shaping that signal into software that is beautiful, dependable, and ready to evolve.
+
+<table>
+	<tr>
+		<td align="center" width="33%"><strong>01 · EXPLORE</strong><br /><sub>Ask better questions.<br />Learn continuously.</sub></td>
+		<td align="center" width="33%"><strong>02 · CREATE</strong><br /><sub>Turn ideas into<br />useful experiences.</sub></td>
+		<td align="center" width="33%"><strong>03 · EVOLVE</strong><br /><sub>Improve systems,<br />products, and impact.</sub></td>
+	</tr>
+</table>
 
 ## My Technology Stack
 
