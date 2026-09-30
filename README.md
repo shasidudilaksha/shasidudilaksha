@@ -8,14 +8,12 @@
 
 ### Software Engineer · Full Stack Developer · Cloud Enthusiast
 
-I turn complex ideas into **simple, intelligent products**. From the first pixel to the final deployment, I connect full-stack engineering, cloud architecture, and applied AI to create software that feels effortless to use and ready for what is next.
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  IDEA  →  INTERFACE  →  INTELLIGENCE  →  IMPACT              │
-│  human-first  ·  cloud-native  ·  AI-ready  ·  built to grow │
-╰──────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+	<img src="https://img.shields.io/badge/⚡_Fast_Interfaces-111111?style=for-the-badge" alt="Fast interfaces" />
+	<img src="https://img.shields.io/badge/🧠_Applied_AI-3178C6?style=for-the-badge" alt="Applied AI" />
+	<img src="https://img.shields.io/badge/☁️_Cloud_Native-0F766E?style=for-the-badge" alt="Cloud native" />
+	<img src="https://img.shields.io/badge/🔐_Secure_Systems-F24E1E?style=for-the-badge" alt="Secure systems" />
+</p>
 
 ## What I Build
 
