@@ -82,22 +82,41 @@ I build thoughtful digital products from the first interface to the last deploye
 ## How I Build
 
 ```mermaid
-flowchart LR
-	A[Idea] --> B[Understand]
-	B --> C[Design]
-	C --> D[Build]
-	D --> E[Test]
-	E --> F[Deploy]
-	F --> G[Improve]
-	G -.-> B
+flowchart TB
+	S([💡 SPARK<br/>Find the real problem]) --> H
 
-	style A fill:#F7DF1E,stroke:#111111,color:#111111
-	style B fill:#3178C6,stroke:#111111,color:#FFFFFF
-	style C fill:#F24E1E,stroke:#111111,color:#FFFFFF
-	style D fill:#339933,stroke:#111111,color:#FFFFFF
-	style E fill:#844FBA,stroke:#111111,color:#FFFFFF
-	style F fill:#0078D4,stroke:#111111,color:#FFFFFF
-	style G fill:#0F766E,stroke:#111111,color:#FFFFFF
+	subgraph H[01 · SHAPE THE IDEA]
+		direction LR
+		H1[Listen] --> H2[Question] --> H3[Sketch]
+	end
+
+	H --> B
+	subgraph B[02 · BUILD THE THING]
+		direction LR
+		B1[Design the experience] --> B2[Write the system] --> B3[Make it resilient]
+	end
+
+	B --> L
+	subgraph L[03 · LET IT LIVE]
+		direction LR
+		L1[Test the edges] --> L2[Ship with confidence] --> L3[Watch it grow]
+	end
+
+	L -.->|feedback becomes the next spark| S
+
+	style S fill:#F7DF1E,stroke:#111111,color:#111111,stroke-width:3px
+	style H fill:#E8F1FF,stroke:#3178C6,color:#111111,stroke-width:2px
+	style B fill:#EAF7EC,stroke:#339933,color:#111111,stroke-width:2px
+	style L fill:#FFF0EA,stroke:#F24E1E,color:#111111,stroke-width:2px
+	style H1 fill:#FFFFFF,stroke:#3178C6,color:#111111
+	style H2 fill:#FFFFFF,stroke:#3178C6,color:#111111
+	style H3 fill:#FFFFFF,stroke:#3178C6,color:#111111
+	style B1 fill:#FFFFFF,stroke:#339933,color:#111111
+	style B2 fill:#FFFFFF,stroke:#339933,color:#111111
+	style B3 fill:#FFFFFF,stroke:#339933,color:#111111
+	style L1 fill:#FFFFFF,stroke:#F24E1E,color:#111111
+	style L2 fill:#FFFFFF,stroke:#F24E1E,color:#111111
+	style L3 fill:#FFFFFF,stroke:#F24E1E,color:#111111
 ```
 
 ## How I Think
