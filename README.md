@@ -1,5 +1,11 @@
 # Hey, I'm Shasidu Dilaksha 👋
 
+<p align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=3178C6&center=true&vCenter=true&width=720&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI-Powered+Product+Builder" alt="Animated introduction" />
+	</a>
+</p>
+
 ### Software Engineer · Full Stack Developer · Cloud Enthusiast
 
 I turn complex ideas into **simple, intelligent products**. From the first pixel to the final deployment, I connect full-stack engineering, cloud architecture, and applied AI to create software that feels effortless to use and ready for what is next.
@@ -23,12 +29,6 @@ I turn complex ideas into **simple, intelligent products**. From the first pixel
 | 🔐 Secure systems | Thoughtful application security from the foundation up |
 
 ## About Me
-
-<p align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=3178C6&center=true&vCenter=true&width=720&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI-Powered+Product+Builder" alt="Animated introduction" />
-	</a>
-</p>
 
 I am a curious builder who enjoys moving between **people, products, and platforms**. I like taking an unclear idea, finding the useful signal inside it, and shaping that signal into software that is beautiful, dependable, and ready to evolve.
 
