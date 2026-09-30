@@ -1,4 +1,4 @@
-# Hey, I'm Shasidu Dilaksha 👋
+<h1 align="center">Hey, I'm Shasidu Dilaksha 👋</h1>
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
@@ -6,7 +6,7 @@
 	</a>
 </p>
 
-### Software Engineer · Full Stack Developer · Cloud Enthusiast
+<h3 align="center">Software Engineer · Full Stack Developer · Cloud Enthusiast</h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/⚡_Fast_Interfaces-111111?style=for-the-badge" alt="Fast interfaces" />
