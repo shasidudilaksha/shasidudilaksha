@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/☁️_Cloud_Native-0F766E?style=for-the-badge" alt="Cloud native" />
 	<img src="https://img.shields.io/badge/🔐_Secure_Systems-F24E1E?style=for-the-badge" alt="Secure systems" />
 </p>
+
 ## About Me
 
 I'm Shasidu Dilaksha, a Software Engineer passionate about building modern, scalable and user-focused digital products.I enjoy transforming ideas into production-ready applications using modern technologies, clean architecture and thoughtful UI/UX. I like taking an unclear idea, finding the useful signal inside it, and shaping that signal into software that is beautiful, dependable, and ready to evolve.
