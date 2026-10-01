@@ -14,6 +14,17 @@
 	<img src="https://img.shields.io/badge/☁️_Cloud_Native-0F766E?style=for-the-badge" alt="Cloud native" />
 	<img src="https://img.shields.io/badge/🔐_Secure_Systems-F24E1E?style=for-the-badge" alt="Secure systems" />
 </p>
+## About Me
+
+I'm Shasidu Dilaksha, a Software Engineer passionate about building modern, scalable and user-focused digital products.I enjoy transforming ideas into production-ready applications using modern technologies, clean architecture and thoughtful UI/UX. I like taking an unclear idea, finding the useful signal inside it, and shaping that signal into software that is beautiful, dependable, and ready to evolve.
+
+<table>
+	<tr>
+		<td align="center" width="33%"><strong>01 · EXPLORE</strong><br /><sub>Ask better questions.<br />Learn continuously.</sub></td>
+		<td align="center" width="33%"><strong>02 · CREATE</strong><br /><sub>Turn ideas into<br />useful experiences.</sub></td>
+		<td align="center" width="33%"><strong>03 · EVOLVE</strong><br /><sub>Improve systems,<br />products, and impact.</sub></td>
+	</tr>
+</table>
 
 ## What I Build
 
@@ -26,17 +37,17 @@
 | 🤖 Applied AI | AI-powered features that solve a real problem inside a useful product |
 | 🔐 Secure systems | Thoughtful application security from the foundation up |
 
-## About Me
-
-I am a curious builder who enjoys moving between **people, products, and platforms**. I like taking an unclear idea, finding the useful signal inside it, and shaping that signal into software that is beautiful, dependable, and ready to evolve.
+## Current Focus
 
 <table>
 	<tr>
-		<td align="center" width="33%"><strong>01 · EXPLORE</strong><br /><sub>Ask better questions.<br />Learn continuously.</sub></td>
-		<td align="center" width="33%"><strong>02 · CREATE</strong><br /><sub>Turn ideas into<br />useful experiences.</sub></td>
-		<td align="center" width="33%"><strong>03 · EVOLVE</strong><br /><sub>Improve systems,<br />products, and impact.</sub></td>
+		<td valign="top" width="25%"><strong>🔭 BUILDING</strong><br /><br />AI-powered applications<br />Cloud-based systems<br />Full Stack platforms<br />Modern responsive interfaces</td>
+		<td valign="top" width="25%"><strong>🌱 LEARNING</strong><br /><br />AWS<br />Azure<br />Cloud Architecture<br />AI / LLM Integration<br />System Design<br />Advanced Next.js</td>
+		<td valign="top" width="25%"><strong>🎨 EXPLORING</strong><br /><br />Advanced UI/UX<br />Micro-interactions<br />Design Systems<br />Performance Optimization</td>
+		<td valign="top" width="25%"><strong>🤝 OPEN TO</strong><br /><br />Software Engineering<br />Full Stack Development<br />Cloud Projects<br />Open Source<br />International Collaboration</td>
 	</tr>
 </table>
+
 
 ## My Technology Stack
 
