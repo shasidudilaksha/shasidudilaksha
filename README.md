@@ -45,7 +45,7 @@ I'm Shasidu Dilaksha, a Software Engineer passionate about building modern, scal
 		<td valign="top" width="25%"><strong>🔭 BUILDING</strong><br /><br />AI-powered applications<br />Cloud-based systems<br />Full Stack platforms<br />Modern responsive interfaces</td>
 		<td valign="top" width="25%"><strong>🌱 LEARNING</strong><br /><br />AWS<br />Azure<br />Cloud Architecture<br />AI / LLM Integration<br />System Design<br />Advanced Next.js</td>
 		<td valign="top" width="25%"><strong>🎨 EXPLORING</strong><br /><br />Advanced UI/UX<br />Micro-interactions<br />Design Systems<br />Performance Optimization</td>
-		<td valign="top" width="25%"><strong>🤝 OPEN TO</strong><br /><br />Software Engineering<br />Full Stack Development<br />Cloud Projects<br />Open Source<br />International Collaboration</td>
+		<td valign="top" width="25%"><strong>🤝 OPEN TO</strong><br /><br />Software Engineering<br />Full Stack Development<br />Mobile App Development<br />Open Source<br />International Collaboration</td>
 	</tr>
 </table>
 
